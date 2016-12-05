@@ -3,12 +3,13 @@ Messaging Client - UX and Source Code
 
 -----
 
-This program is a complete messageing application built around my MsgClient.cs file and communicates with a specified server (https://github.com/Tornadocraver/MSG_SERVER/). Please note that this project is still in the testing phase and may have some issues (although you are welcome to test it). Any questens or suggestions, send me an email as: micahmail9@gmail.com
+This program is a complete messageing application built around my MsgClient.cs file and communicates with a specified server (https://github.com/Tornadocraver/MSG_SERVER/). Please note that this project is still in the testing phase and may have some issues (although you are welcome to test it). Also note: YOU NEED TO PORT-FORWARD IF YOU PLAN ON COMMUNICATING OVER THE INTERNET! Any questens or suggestions, send me an email as: micahmail9@gmail.com
 
 Future Plans:
 		- Bug fixes
     - Make more user friendly (update UX)
     - Comment on code, make understandable
+		- Develop and Implement Peer-to-Peer mode
     - Implement File transfering
     - Implement Image transfering
     - Implement Voice streaming (VoIP)
