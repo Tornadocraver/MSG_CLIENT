@@ -1,4 +1,6 @@
-# MSG_CLIENT
+# MSG_CLIENT (Archived)
+**PLEASE NOTE** This project has moved to: https://github.com/Tornadocraver/ConnectLib
+
 Messaging Client - UX and Source Code
 
 -----
